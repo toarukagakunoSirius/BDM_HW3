@@ -1,8 +1,8 @@
 import csv
 import sys
 import json
-import numpy as np
-import pandas as pd
+#import numpy as np
+#import pandas as pd
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
